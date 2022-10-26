@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rtorricodev
+- 👋 Hi, I’m Rodrigo
 - 📍 Working remotely from Bolivia
 - 🌱 I’m currently learning more React, Next JS
 - 📫 How to reach me: rodrigo.torricodelcastillo@gmail.com
