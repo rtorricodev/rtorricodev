@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo
-- 📍 Working remotely from Bolivia
+- 📍 Working remote from Bolivia
 - 👨🏻‍💻 Every day I work with: Angular, JS, TypeScript, Figma, Git, HTML, CSS
 - 🌱 I’m currently learning more React, Next JS
 - 📫 How to reach me: rodrigo.torricodelcastillo@gmail.com
